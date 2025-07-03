@@ -3,6 +3,6 @@
 pitom = str(input("введите вид питомца")).
 vozr = str(input("введите возраст питомца")).
 klich = str(input("введите кличку питомца")).
-print(f"Это {pitom} по кличке {klich}.Возраст: {vozr}").
+print("Это {pitom} по кличке {klich}.Возраст: {vozr}").
 
 
